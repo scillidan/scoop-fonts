@@ -3,7 +3,7 @@
     "description": "Intel One Mono: an expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.",
     "homepage": "https://github.com/intel/intel-one-mono",
     "license": "OFL-1.1",
-    "url": "https://github.com/intel/intel-one-mono/releases/download/v1.5.0/intel-one-mono-ttf.zip",
+    "url": "https://github.com/intel/intel-one-mono/releases/download/V1.5.0/intel-one-mono-ttf.zip",
     "hash": "56b3e208cc3ed1f49a878782a6b1112c88c5b7b5505928ebfd6f7eeabab2ecdc",
     "extract_dir": "intel-one-mono-ttf",
     "installer": {
@@ -89,6 +89,6 @@
     },
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/intel/intel-one-mono/releases/download/v$version/intel-one-mono-ttf.zip"
+        "url": "https://github.com/intel/intel-one-mono/releases/download/V$version/intel-one-mono-ttf.zip"
     }
 }
